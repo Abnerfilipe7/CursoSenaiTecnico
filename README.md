@@ -1,2 +1,2 @@
 # CursoSenaiTecnico
-## aqui estão as atividades qie fiz durante o curso.
+## aqui estão as atividades que fiz durante o curso.
